@@ -219,20 +219,29 @@ input:active, input:focus,textarea:focus,textarea:active{
      margin-top: 0;
  }
 
- .link{
+ header .link{
      display: block;
      line-height: 2.4;
  }
 
  header > div{
-     margin-top: 30px;
+     margin: 40px 0;
+
  }
 
- section{
+header, section{
      display: block;
     padding-bottom: 100px;
 
  }
+
+ footer{
+     margin-top: 0px;
+ }
+
+ 
+
+ 
 
 
 }
